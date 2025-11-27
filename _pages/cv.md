@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Electronic and Electrical Engineering, University of Liverpool, 2024
+* M.Sc. in Computer Vision, Robotics and Machine Learning (Distinction), University of Surrey, 2020
+* M.Sc. in Advanced Control and System Engineering (Distinction), University of Manchester, 2017
+* B.Eng. in Engineering Mechanics (Honors College), Tianjin University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025 - Present: Postdoctoral Fellow 
+  *  the Hong Kong University of Science and Technology (Guangzhou)
+* Fall 2020 - Winter 2024: Joint Ph.D. Program Intern
+  * Institute of Deep Perception Technology (JITRI)
+  * Duties included: Algorithm development for motion-based targetless calibration (radar/camera); conducting academic research and drafting project applications.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2018 - Summer 2019: Software Engineer
+  * Pan Asia Technical Automotive Center (PATAC)
+  * Duties included: Multi-core task scheduling (AUTOSAR); Algorithm optimization for surround-view systems (NXP S32V); Researching event camera systems.
+  * Collaborator: Professor Chen Guang (Tongji University)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2016: New Product Launch Engineer Intern
+  * Continental Automotive Systems
+  * Duties included: Overseeing new product introduction, coordinating logistics, and production planning.
 
 Publications
 ======
